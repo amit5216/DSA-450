@@ -22,13 +22,22 @@ The Love Babbar 450 DSA Sheet is a curated list of important Data Structures and
 
 | Topic | Completed |
 |------|----------|
-| Arrays | 0 / 50 |
-| Strings | 0 / 45 |
-| Linked List | 0 / 30 |
-| Stack & Queue | 0 / 30 |
-| Trees | 0 / 40 |
-| Graph | 0 / 40 |
-| Dynamic Programming | 0 / 60 |
+| Arrays | 2 / 36 |
+| Matrix | 0 / 10 |
+| Strings | 0 / 43 |
+| Search & Sort | 0 / 36 |
+| Linked List | 0 / 36 |
+| Binary Trees | 0 / 35 |
+| BST | 0 / 22 |
+| Greedy| 0 / 35 |
+| BackTracking| 0 / 19 |
+| Stack & Queues| 0 / 38 |
+| Heap| 0 / 18 |
+| Graph| 0 / 44 |
+| Tries| 0 / 6 |
+| Dynamic Programming| 0 / 60 |
+| Bit Manipulation| 0 / 10 |
+
 
 ---
 
