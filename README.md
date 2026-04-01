@@ -15,24 +15,6 @@ The Love Babbar 450 DSA Sheet is a curated list of important Data Structures and
 ## 👨‍💻 Tech Stack
 - Java
 
----
-
-## 📂 Folder Structure
-DSA-450/
-│
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── Stack/
-├── Queue/
-├── Trees/
-├── Graph/
-├── DynamicProgramming/
-├── Greedy/
-├── Recursion/
-│
-└── README.md
-
 
 ---
 
