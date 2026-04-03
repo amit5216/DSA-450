@@ -10,7 +10,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 public class Solution {
 	public static ArrayList<Integer> rotateArray(ArrayList<Integer> arr, int k) {
-        // Write your code here.
         int n = arr.size();
         k = k % n;  // handle k > n
 
@@ -22,7 +21,6 @@ public class Solution {
         
         // Step 3: Reverse whole array
         reverse(arr, 0, n - 1);
-        
         return arr;
     }
     
