@@ -8,6 +8,7 @@ class Solution {
         ArrayList<String> result = new ArrayList<>();
         helper(str, 0, "", result);
         return result;
+        
     }
     
     private static void helper(String str, int index, String current, ArrayList<String> result) {
